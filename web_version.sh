@@ -1,2 +1,2 @@
 #!/bin/bash
-web_version="1"
+web_version="2"
